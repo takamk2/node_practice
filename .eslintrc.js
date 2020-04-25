@@ -1,13 +1,13 @@
 module.exports = {
-    env: {
-        es6: true,
-        browser: true,
-    },
-    extends: [
-        'eslint:recommended',
-    ],
-    rules: {
-        semi: ['error', 'always'],
-        quotes: ['error', 'single'],
-    }
-};
+  parser: 'babel-eslint',
+  env: {
+    es6: true,
+    node: true,
+    browser: true,
+  },
+  extends: ['eslint:recommended'],
+  rules: {
+    semi: ['error', 'never'],
+    quotes: ['error', 'single'],
+  },
+}

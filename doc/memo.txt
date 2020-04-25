@@ -3,5 +3,9 @@
 - とりあえず入れる
 - es6準拠
 - babelとかは必要になったら
+- https://eslint.org/docs/user-guide/getting-started
 
 # pretierを入れる
+
+- width: 120
+- tab: 2
