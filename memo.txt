@@ -1,0 +1,28 @@
+# eslintを入れる
+
+- とりあえず入れる
+- es6準拠
+- babelとかは必要になったら
+- https://eslint.org/docs/user-guide/getting-started
+
+# pretierを入れる
+
+- width: 120
+- tab: 2
+
+# React入門
+
+- とりあえず動かしてみる
+
+# Reactアプリの作成
+
+- サンプル起動まで
+
+# チュートリアルの実装
+
+https://ja.reactjs.org/tutorial/tutorial.html
+
+# ガイドの理解
+
+https://ja.reactjs.org/docs/hello-world.html
+
